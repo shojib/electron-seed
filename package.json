@@ -1,6 +1,6 @@
 {
   "name": "Electron-Seed",
-  "description": "ngElectron is an AngularJS + Electron seed.",
+  "description": "Electron-Seed is an AngularJS + Electron seed.",
   "version": "0.1.0",
   "author": "shojib <shojib1@gmail.com>",
   "license": "MIT",
@@ -42,6 +42,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shojib/ngElectron.git"
+    "url": "https://github.com/shojib/electron-seed.git"
   }
 }
